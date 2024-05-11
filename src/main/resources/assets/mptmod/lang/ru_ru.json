@@ -1,0 +1,19 @@
+{
+  "item.mptmod.amber": "Янтарь",
+  "item.mptmod.amber_raw": "Необработанный янтарь",
+  "itemGroup.mptmod.mpt_tab": "Мпт мод",
+  "block.mptmod.amber_block": "Янтарный блок",
+  "block.mptmod.amber_ore": "Янтарная Руда",
+  "block.mptmod.deepslate_amber_ore": "Глубинная янтарная руда",
+
+  "item.mptmod.amber_helmet": "Янтарный шлем",
+  "item.mptmod.amber_chestplate": "Янтарный нагрудник",
+  "item.mptmod.amber_legging": "Янтарный поножи",
+  "item.mptmod.amber_boots": "Янтарный ботинки",
+
+  "item.mptmod.amber_axe": "Янтарный топор",
+  "item.mptmod.amber_sword": "Янтарный меч",
+  "item.mptmod.amber_pickaxe": "Янтарная кирка",
+  "item.mptmod.amber_shovel": "Янтарная лопата",
+  "item.mptmod.amber_hoe": "Янтарная мотыга"
+}
